@@ -36,19 +36,9 @@
       "lastName": "Doe"
     },
     {
-      "id": 2,
-      "firstName": "Sam",
-      "lastName": "Smith"
-    },
-    {
-      "id": 3,
-      "firstName": "Sara",
-      "lastName": "Wilson"
-    },
-    {
-      "firstName": "Lil",
-      "LastName": "Kim",
-      "id": 4
+      "firstName": "Jim ",
+      "lastName": "Kazama",
+      "id": 3
     }
   ]
 }
